@@ -5,3 +5,4 @@ expData/
 .build_release/
 .build_debug/
 trackletsData/
+test_sequences/
