@@ -1,5 +1,6 @@
 *~
 *.avi
+*.mp4
 expData/
 .build_release/
 .build_debug/
