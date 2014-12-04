@@ -1,0 +1,6 @@
+*~
+*.avi
+expData/
+.build_release/
+.build_debug/
+trackletsData/
